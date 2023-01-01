@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "title": "Login",
+    "description": "Fitur awal login ke aplikasi kasir restoran cafe rumah makan. dilengkapi dengan login user name dan protkesi password.",
+    "image": "https://1.bp.blogspot.com/-GLipplHotWE/YKnp8x9FrHI/AAAAAAAAOHw/wAwFRVGujbwcR56bScTt8eq6r7P1uoD-ACLcBGAsYHQ/s1234/aplikasi%2Brestoran%2Bwebsite%2Brestoran%2Bcafe%2Brumah%2Bmakan%2B%25283%2529.jpeg"
+  },
+  {
+    "id": "2",
+    "title": "Dashboard",
+    "description": "Halaman utama setelah login , selanjutnya nanti kita akan diarahkan ke admin arera ini , dan mulai bekerja menggunakan app.",
+    "image": "https://1.bp.blogspot.com/-9YREiPXyM8g/YKnqRm1ZGCI/AAAAAAAAOH4/FZtjicU-KN8nk3wZzMrdd649g4ib-M2lACLcBGAsYHQ/s1366/aplikasi%2Brestoran%2Bonline%2Bwebsite%2Bresto%2Bcafe%2Brumah%2Bmakan%2Bapk%2Bandroid%2B%25281%2529.png"
+  },
+  {
+    "id": "3",
+    "title": "Database",
+    "description": "Untuk memulai awal kita dapat masuk ke database untuk keperluan pengelolahan data, seperti user , pelanggan, supplier dan lain lain.",
+    "image": "https://1.bp.blogspot.com/-EU5PMIrNoFU/YKnrGYMUkiI/AAAAAAAAOIA/qi_Lkh-7QssXMqhsYmxMrkVbBI1SWzniwCLcBGAsYHQ/s1349/aplikasi%2Brestoran%2Bonline%2Bwebsite%2Bresto%2Bcafe%2Brumah%2Bmakan%2Bapk%2Bandroid%2B%25282%2529.png"
+  },
+  {
+    "id": "4",
+    "title": "Menu",
+    "description": "Setelah pengisian database maka kini sudah bisa untuk memasukan data menu makanan minuman maupun produk pada applikasi resto ini.",
+    "image": "https://1.bp.blogspot.com/-BmgXB_yQ8PQ/YKnrxjhpBMI/AAAAAAAAOII/B1VO4pba1-gQNAkYhb07-I-UPPxwy_fnQCLcBGAsYHQ/s1234/aplikasi%2Brestoran%2Bonline%2Bwebsite%2Bresto%2Bcafe%2Brumah%2Bmakan%2Bapk%2Bandroid%2B%252813%2529.jpeg"
+  },
+  {
+    "id": "5",
+    "title": "Inventori",
+    "description": "Dan selanjutnya kita dapat melakukan transaksi untuk kebutuhan stok inventori managament untuk pembelian, stok opname dan lain sebagai nya.",
+    "image": "https://1.bp.blogspot.com/-6Yz_IwXsqwA/YKntdQiN4fI/AAAAAAAAOIg/RuTLpTLEQ6AMr1CPgwv3oG1pZqZBVIqCQCLcBGAsYHQ/s1349/inventori%2Bstok%2Baplikasi%2Brestoranterbaru.png"
+  },
+  {
+    "id": "6",
+    "title": "Transaksi",
+    "description": "Dan untuk kebutuhan dalam melakukan transaski sudah ready fitur transaksi untuk pembelian ke supplier dan berbagai fitur lain.",
+    "image": "https://1.bp.blogspot.com/-XiLP7FdPU3Q/YKnt5lFlmkI/AAAAAAAAOIo/Zz8VucS9K7MtIeBZJe-wfd-V5VY37YxtQCLcBGAsYHQ/s1349/transaksi%2Bpada%2Brestoran%2Bcafe%2Brumah%2Bmakan.png"
+  },
+  {
+    "id": "7",
+    "title": "Penjualan",
+    "description": "Kebutuhan untuk invoice system faktur penjualan dapat diakses pada fitur penjualan untuk menerbitkan invoice resto cafe.",
+    "image": "https://1.bp.blogspot.com/-wk4FM4IUlVg/YKnuaC41rGI/AAAAAAAAOIw/Twq1OZhts0wq7etOJgmfFK0QNtuO1GOXQCLcBGAsYHQ/s1349/penjualan%2Brestoran%2Bcafe%2Brumah%2Bmakan.png"
+  },
+  {
+    "id": "8",
+    "title": "POS",
+    "description": "Special dan khusus untuk penjualan kasir dalam handle pesanan pelanggan dan transaksi untuk cetak bill maupun struk,dapat digunakan metode fastfood penjualan langsung,maupun penggunaan dengan divisi waiters dan kitchen dalam bekerja.",
+    "image": "https://1.bp.blogspot.com/-XBg7GVXJ26w/YKnvJUqJi5I/AAAAAAAAOI4/zLExAonqi0ENwHJtClSmctfv2st7a3kMACLcBGAsYHQ/s1234/aplikasi%2Brestoran%2Bonline%2Bwebsite%2Bresto%2Bcafe%2Brumah%2Bmakan%2Bapk%2Bandroid%2B%252816%2529.jpeg"
+  },
+  {
+    "id": "9",
+    "title": "Kitchen",
+    "description": "Fitur kitchen display screen untuk kemudahan divisi dapur dalam menerima secara cepat dari waiters , dan menyiapkan order pelanggan, konsep bekerja dengan skema waiters atau kasir mengirimkan pesanan via kitchen screen , dan kitchen menerima detail pesanan yang masuk.",
+    "image": "https://1.bp.blogspot.com/-ZgsE03GnXhQ/YKnwGNS1BhI/AAAAAAAAOJA/_jd07vtYdQgtpRnbWSnqK0L0ZKI3D4agwCLcBGAsYHQ/s1234/aplikasi%2Brestoran%2Bonline%2Bwebsite%2Bresto%2Bcafe%2Brumah%2Bmakan%2Bapk%2Bandroid%2B%25284%2529.jpeg"
+  },
+  {
+    "id": "10",
+    "title": "Laporan",
+    "description": "Dan semua rangkuman laporan baik inventori stok,keuangan, laba rugi dan lain nya dapat diakses pada menu laporan aplikasi restoran cafe rumah makan ini.",
+    "image": "https://1.bp.blogspot.com/-gL8fJbKGFrI/YKnw132C0kI/AAAAAAAAOJI/FLyN3upG_bM7XjW1r6ws0fc_-9TXCpdMACLcBGAsYHQ/s1445/aplikasi%2Brestoran%2Bonline%2Bwebsite%2Bresto%2Bcafe%2Brumah%2Bmakan%2Bapk%2Bandroid%2B%25285%2529.jpeg"
+  },
+  {
+    "id": "11",
+    "title": "Mobile",
+    "description": "Dukungan penuh untuk penggunaan dengan mobile dalam bekerja secara fungsional",
+    "image": "https://1.bp.blogspot.com/-k3mdseRHSp4/YKnyc4lD4QI/AAAAAAAAOJk/Ejakw4Yo_VouRJMNMMDB6hBuvzKf3M5mwCLcBGAsYHQ/s582/mobile%2Bresto%2Bwaiters%2Bwebsite%2Baplikasi%2Bresto%2Bcafe%2Brumah%2Bmakan%2B%25281%2529.jpeg"
+  },
+  {
+    "id": "12",
+    "title": "Waiters",
+    "description": "Kemudahan untuk waiters dalam bekerja dengan waiters app via tablet maupun smartphone nya.",
+    "image": "https://1.bp.blogspot.com/-5f12kG3ej6A/YKnydI0JydI/AAAAAAAAOJo/RHd1GoXQgsYb54V0dZGEmWKcD8U_2HlYgCLcBGAsYHQ/s874/mobile%2Bresto%2Bwaiters%2Bwebsite%2Baplikasi%2Bresto%2Bcafe%2Brumah%2Bmakan%2B%25282%2529.jpeg"
+  },
+  {
+    "id": "13",
+    "title": "Website",
+    "description": "Include content management system untuk kemudahan dalam membuat website restoran cafe rumah makan dengan kreasi sendiri , serta dukungan akan berbagai fitur halaman seperti event agenda promosi dan lain sebagai nya.",
+    "image": "https://1.bp.blogspot.com/-hvek0n2Lilc/YKnxh_FZRkI/AAAAAAAAOJY/jr3TuXutUb88tgPiIXTD_GEu__oDvYsVwCLcBGAsYHQ/s1234/aplikasi%2Brestoran%2Bonline%2Bwebsite%2Bresto%2Bcafe%2Brumah%2Bmakan%2Bapk%2Bandroid%2B%25287%2529.jpeg"
+  },
+  {
+    "id": "14",
+    "title": "Menu Web",
+    "description": "Tampilan menu mobile dan website app pada frontend resto cafe rumah makan dengan domain dot com akan semakin keren dan terpercaya oleh pelanggan.",
+    "image": "https://1.bp.blogspot.com/-I7cjNH1TaPE/YKn0AJ3uMPI/AAAAAAAAOKk/3k1uRKSSaDoHZsS1jKmlVFhd3_P8EGK0wCLcBGAsYHQ/s1366/aplikasi%2Brestoran%2Bwebsite%2Brestoran%2Bcafe%2Brumah%2Bmakan%2B%25281%2529.png"
+  },
+  {
+    "id": "15",
+    "title": "Home Page",
+    "description": "Tampilan display dari website halaman beranda utama atau home page, dengan navigasi ke berbagai menu seperti menu, promosi, event dan lain sebagai nya.",
+    "image": "https://1.bp.blogspot.com/-6meisEiEZ8w/YKn0AV-XayI/AAAAAAAAOKo/PQ9VMsPGKEQkt7usPlDYRqUarhT6SqmvQCLcBGAsYHQ/s1865/aplikasi%2Brestoran%2Bwebsite%2Brestoran%2Bcafe%2Brumah%2Bmakan%2B%25281%2529.jpeg"
+  },
+  {
+    "id": "16",
+    "title": "Web Menu",
+    "description": "Tampilan halaman menu yang secara otomatis mengambil data dari aplikasi restoran cafe rumah makan.",
+    "image": "https://1.bp.blogspot.com/-JP45FHFXuV0/YKn0Be73KvI/AAAAAAAAOK4/T6M1gk-etXAvAPLW2PeCgTU47F8QkumcACLcBGAsYHQ/s1234/aplikasi%2Brestoran%2Bwebsite%2Brestoran%2Bcafe%2Brumah%2Bmakan%2B%25286%2529.jpeg"
+  },
+  {
+    "id": "17",
+    "title": "Promo Page",
+    "description": "Tampilan display halaman promosi untuk informasi mengenai promosi yang berlaku pada resto cafe rumah makan.",
+    "image": "https://1.bp.blogspot.com/-0vDgJe75wmY/YKn0Ar_qiLI/AAAAAAAAOKs/xS1DtUENdBAlvu_-ii3MqDyVJ875uRLgwCLcBGAsYHQ/s1595/aplikasi%2Brestoran%2Bwebsite%2Brestoran%2Bcafe%2Brumah%2Bmakan%2B%25282%2529.jpeg"
+  },
+  {
+    "id": "18",
+    "title": "QR Code",
+    "description": "Tampilan display halaman mobile menu qrcode menu digital.",
+    "image": "https://1.bp.blogspot.com/-dIHVznZ7sp8/YKn3TzLjaSI/AAAAAAAAOLg/M5qgJGGAG-gtEJ8YnIBlES8atQHT_e3ZACLcBGAsYHQ/s680/apk%2Bandroid%2Bwebsite%2Bresto%2Bcafe%2Bruamh%2Bmakan%2Baplikasi%2Bmesin%2Bkasir%2Bonline%2B%25285%2529.jpeg"
+  }
+]
