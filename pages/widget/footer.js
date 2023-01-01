@@ -76,7 +76,7 @@ function Footer() {
             </a>
             &nbsp;
             <a
-              href="https://vercel.com"
+              href="https://github.com/mesinkasir/nextlandingpages"
               target="_blank"
               rel="noopener noreferrer"
             >
