@@ -10,6 +10,7 @@ function Web() {
           src={Webs}
           alt={data.website}
           className="img-fluid"
+          loading="lazy"
           width="50%"
           height="50%"
         />

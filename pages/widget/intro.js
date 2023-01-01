@@ -25,7 +25,13 @@ function Intro() {
         </p>
       </div>
       <div className="col-md-8 p-0">
-        <Image src={Mr} alt={data.title} width="100%" height="100%" />
+        <Image
+          src={Mr}
+          alt={data.title}
+          className="img-fluid"
+          width="100%"
+          height="100%"
+        />
       </div>
     </div>
   );

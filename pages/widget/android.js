@@ -10,6 +10,7 @@ function Android() {
           src={Andro}
           alt={data.andro}
           className="img-fluid"
+          loading="lazy"
           width="50%"
           height="50%"
         />

@@ -11,6 +11,7 @@ function Pro() {
           alt={data.std}
           className="img-fluid"
           width="50%"
+          loading="lazy"
           height="50%"
         />
       </div>

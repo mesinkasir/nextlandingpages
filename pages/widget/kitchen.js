@@ -10,6 +10,7 @@ function Kitchen() {
           src={Koki}
           alt={data.kitchen}
           className="img-fluid"
+          loading="lazy"
           width="100%"
           height="100%"
         />

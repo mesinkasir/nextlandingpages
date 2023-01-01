@@ -10,6 +10,7 @@ function Laporan() {
           src={Rep}
           alt={data.admin}
           className="img-fluid"
+          loading="lazy"
           width="50%"
           height="50%"
         />

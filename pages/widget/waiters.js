@@ -10,6 +10,7 @@ function Waiter() {
           src={Mobile}
           alt={data.waiters}
           className="img-fluid"
+          loading="lazy"
           width="50%"
           height="50%"
         />
